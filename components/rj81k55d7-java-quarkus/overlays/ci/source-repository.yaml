@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rj81k55d7-java-quarkus-repository
+spec:
+  url: https://github.com/xjiangorg/rj81k55d7-java-quarkus
